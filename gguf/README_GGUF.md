@@ -1,4 +1,4 @@
-````md
+
 # Convert Merged Hugging Face Checkpoints to GGUF (FP16 + Q4_K_M)
 
 This guide documents the steps to:
@@ -102,3 +102,4 @@ Use these artifacts for inference with `llama.cpp` or compatible GGUF runtimes.
 
 ```
 ```
+
