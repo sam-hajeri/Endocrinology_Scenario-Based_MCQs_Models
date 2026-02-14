@@ -1,0 +1,5 @@
+model_id,n_items,missing_topic
+HAJERI/gemma-3-1b-endocrinology-scenario-mcq-it-fp16-gguf,9,Diabetes mellitus & hypoglycemia
+HAJERI/gpt-oss-20b-endocrinology-scenario-mcq-it-Q4_K_M-gguf,9,"Calcium, parathyroid & metabolic bone disease"
+HAJERI/gemma-3-1b-endocrinology-scenario-mcq-it-Q4_K_M-gguf,8,"Obesity, lipids & nutrition"
+HAJERI/gemma-3-1b-endocrinology-scenario-mcq-it-Q4_K_M-gguf,8,Thyroid disorders

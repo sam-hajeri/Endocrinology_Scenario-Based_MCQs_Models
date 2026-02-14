@@ -1,0 +1,197 @@
+item_id,model_id,topic
+393603239896,HAJERI/gemma-3-4b-endocrinology-scenario-mcq-it-lora,Diabetes mellitus & hypoglycemia
+4fa5fd1f9d4e,HAJERI/gemma-3-4b-endocrinology-scenario-mcq-it-lora,Thyroid disorders
+e715856b74d1,HAJERI/gemma-3-4b-endocrinology-scenario-mcq-it-lora,Adrenal disorders
+5f0efdb2bbcc,HAJERI/gemma-3-4b-endocrinology-scenario-mcq-it-lora,Pituitary & hypothalamic disorders
+93cf4ea1f275,HAJERI/gemma-3-4b-endocrinology-scenario-mcq-it-lora,"Calcium, parathyroid & metabolic bone disease"
+2c162292332d,HAJERI/gemma-3-4b-endocrinology-scenario-mcq-it-lora,Female reproductive endocrinology
+0017247f18fe,HAJERI/gemma-3-4b-endocrinology-scenario-mcq-it-lora,Male reproductive endocrinology
+4ccffe52b5b9,HAJERI/gemma-3-4b-endocrinology-scenario-mcq-it-lora,"Obesity, lipids & nutrition"
+50e9a2e7c5b4,HAJERI/gemma-3-4b-endocrinology-scenario-mcq-it-lora,Endocrine neoplasia & hereditary syndromes
+aaeb284f3324,HAJERI/gemma-3-4b-endocrinology-scenario-mcq-it-lora,Pediatric endocrinology & growth/puberty
+4b2096553351,HAJERI/gemma-3-1b-endocrinology-scenario-mcq-it-lora,Diabetes mellitus & hypoglycemia
+63e61ac8a8f2,HAJERI/gemma-3-1b-endocrinology-scenario-mcq-it-lora,Thyroid disorders
+c8564d3f27de,HAJERI/gemma-3-1b-endocrinology-scenario-mcq-it-lora,Adrenal disorders
+4c5dd7d100cd,HAJERI/gemma-3-1b-endocrinology-scenario-mcq-it-lora,Pituitary & hypothalamic disorders
+462928ad6f41,HAJERI/gemma-3-1b-endocrinology-scenario-mcq-it-lora,"Calcium, parathyroid & metabolic bone disease"
+5e202a942227,HAJERI/gemma-3-1b-endocrinology-scenario-mcq-it-lora,Female reproductive endocrinology
+1ccf3cbcb6bd,HAJERI/gemma-3-1b-endocrinology-scenario-mcq-it-lora,Male reproductive endocrinology
+3aa1865bba00,HAJERI/gemma-3-1b-endocrinology-scenario-mcq-it-lora,"Obesity, lipids & nutrition"
+8cf15da16012,HAJERI/gemma-3-1b-endocrinology-scenario-mcq-it-lora,Endocrine neoplasia & hereditary syndromes
+7d84411a1018,HAJERI/gemma-3-1b-endocrinology-scenario-mcq-it-lora,Pediatric endocrinology & growth/puberty
+a3dc364ba747,HAJERI/gemma-3-1b-endocrinology-scenario-mcq-it-merged-fp16,Diabetes mellitus & hypoglycemia
+c0bd8f5ca653,HAJERI/gemma-3-1b-endocrinology-scenario-mcq-it-merged-fp16,Thyroid disorders
+5a5e58176e28,HAJERI/gemma-3-1b-endocrinology-scenario-mcq-it-merged-fp16,Adrenal disorders
+f0f08a0b655a,HAJERI/gemma-3-1b-endocrinology-scenario-mcq-it-merged-fp16,Pituitary & hypothalamic disorders
+6a742a25ee13,HAJERI/gemma-3-1b-endocrinology-scenario-mcq-it-merged-fp16,"Calcium, parathyroid & metabolic bone disease"
+b93d5c2c96cd,HAJERI/gemma-3-1b-endocrinology-scenario-mcq-it-merged-fp16,Female reproductive endocrinology
+321814af76f5,HAJERI/gemma-3-1b-endocrinology-scenario-mcq-it-merged-fp16,Male reproductive endocrinology
+ef287cf191d9,HAJERI/gemma-3-1b-endocrinology-scenario-mcq-it-merged-fp16,"Obesity, lipids & nutrition"
+28b75a7368b8,HAJERI/gemma-3-1b-endocrinology-scenario-mcq-it-merged-fp16,Endocrine neoplasia & hereditary syndromes
+402c2cecf95b,HAJERI/gemma-3-1b-endocrinology-scenario-mcq-it-merged-fp16,Pediatric endocrinology & growth/puberty
+9f99b0db8787,HAJERI/gemma-3-12b-endocrinology-scenario-mcq-it-merged-fp16,Diabetes mellitus & hypoglycemia
+4dd711c9c55a,HAJERI/gemma-3-12b-endocrinology-scenario-mcq-it-merged-fp16,Thyroid disorders
+23acdfdbe62c,HAJERI/gemma-3-12b-endocrinology-scenario-mcq-it-merged-fp16,Adrenal disorders
+25bbccbbcb9e,HAJERI/gemma-3-12b-endocrinology-scenario-mcq-it-merged-fp16,Pituitary & hypothalamic disorders
+9cbdf5f5ab6d,HAJERI/gemma-3-12b-endocrinology-scenario-mcq-it-merged-fp16,"Calcium, parathyroid & metabolic bone disease"
+482d81c00558,HAJERI/gemma-3-12b-endocrinology-scenario-mcq-it-merged-fp16,Female reproductive endocrinology
+90b7bec9c8b8,HAJERI/gemma-3-12b-endocrinology-scenario-mcq-it-merged-fp16,Male reproductive endocrinology
+59894863e7af,HAJERI/gemma-3-12b-endocrinology-scenario-mcq-it-merged-fp16,"Obesity, lipids & nutrition"
+5bd149b26da2,HAJERI/gemma-3-12b-endocrinology-scenario-mcq-it-merged-fp16,Endocrine neoplasia & hereditary syndromes
+5ba04ab086bc,HAJERI/gemma-3-12b-endocrinology-scenario-mcq-it-merged-fp16,Pediatric endocrinology & growth/puberty
+6c242734b2a9,HAJERI/gemma-3-27b-endocrinology-scenario-mcq-it-lora,Diabetes mellitus & hypoglycemia
+8cf6970bdbde,HAJERI/gemma-3-27b-endocrinology-scenario-mcq-it-lora,Thyroid disorders
+f487ac326acf,HAJERI/gemma-3-27b-endocrinology-scenario-mcq-it-lora,Adrenal disorders
+66d4993b9725,HAJERI/gemma-3-27b-endocrinology-scenario-mcq-it-lora,Pituitary & hypothalamic disorders
+b70d68ffa004,HAJERI/gemma-3-27b-endocrinology-scenario-mcq-it-lora,"Calcium, parathyroid & metabolic bone disease"
+567e4c57b2ad,HAJERI/gemma-3-27b-endocrinology-scenario-mcq-it-lora,Female reproductive endocrinology
+9f6f53b6acff,HAJERI/gemma-3-27b-endocrinology-scenario-mcq-it-lora,Male reproductive endocrinology
+135fae44328c,HAJERI/gemma-3-27b-endocrinology-scenario-mcq-it-lora,"Obesity, lipids & nutrition"
+74c6e0dc12eb,HAJERI/gemma-3-27b-endocrinology-scenario-mcq-it-lora,Endocrine neoplasia & hereditary syndromes
+a46f3a5eb854,HAJERI/gemma-3-27b-endocrinology-scenario-mcq-it-lora,Pediatric endocrinology & growth/puberty
+19e1cc77087a,HAJERI/gemma-3-12b-endocrinology-scenario-mcq-it-lora,Diabetes mellitus & hypoglycemia
+913ecbc32c4a,HAJERI/gemma-3-12b-endocrinology-scenario-mcq-it-lora,Thyroid disorders
+636247053860,HAJERI/gemma-3-12b-endocrinology-scenario-mcq-it-lora,Adrenal disorders
+f0256fa467d7,HAJERI/gemma-3-12b-endocrinology-scenario-mcq-it-lora,Pituitary & hypothalamic disorders
+a513022b3e44,HAJERI/gemma-3-12b-endocrinology-scenario-mcq-it-lora,"Calcium, parathyroid & metabolic bone disease"
+5b23edda7510,HAJERI/gemma-3-12b-endocrinology-scenario-mcq-it-lora,Female reproductive endocrinology
+145a4b8edc69,HAJERI/gemma-3-12b-endocrinology-scenario-mcq-it-lora,Male reproductive endocrinology
+43b7e8970935,HAJERI/gemma-3-12b-endocrinology-scenario-mcq-it-lora,"Obesity, lipids & nutrition"
+3ec8ac14fec7,HAJERI/gemma-3-12b-endocrinology-scenario-mcq-it-lora,Endocrine neoplasia & hereditary syndromes
+7d63f9b2f6b6,HAJERI/gemma-3-12b-endocrinology-scenario-mcq-it-lora,Pediatric endocrinology & growth/puberty
+46d2c76d3374,HAJERI/gemma-3-4b-endocrinology-scenario-mcq-it-merged-fp16,Diabetes mellitus & hypoglycemia
+d6638b8008dd,HAJERI/gemma-3-4b-endocrinology-scenario-mcq-it-merged-fp16,Thyroid disorders
+c109264f141d,HAJERI/gemma-3-4b-endocrinology-scenario-mcq-it-merged-fp16,Adrenal disorders
+9ea884af01ec,HAJERI/gemma-3-4b-endocrinology-scenario-mcq-it-merged-fp16,Pituitary & hypothalamic disorders
+72c6f76fd90d,HAJERI/gemma-3-4b-endocrinology-scenario-mcq-it-merged-fp16,"Calcium, parathyroid & metabolic bone disease"
+b4aedb5cf059,HAJERI/gemma-3-4b-endocrinology-scenario-mcq-it-merged-fp16,Female reproductive endocrinology
+dd397fbe6ff9,HAJERI/gemma-3-4b-endocrinology-scenario-mcq-it-merged-fp16,Male reproductive endocrinology
+69c42e07b6a0,HAJERI/gemma-3-4b-endocrinology-scenario-mcq-it-merged-fp16,"Obesity, lipids & nutrition"
+cec77e56cae1,HAJERI/gemma-3-4b-endocrinology-scenario-mcq-it-merged-fp16,Endocrine neoplasia & hereditary syndromes
+5816b29543c2,HAJERI/gemma-3-4b-endocrinology-scenario-mcq-it-merged-fp16,Pediatric endocrinology & growth/puberty
+9d633c4e02bd,HAJERI/gemma-3-27b-endocrinology-scenario-mcq-it-merged-fp16,Diabetes mellitus & hypoglycemia
+3a6eb2bbcba2,HAJERI/gemma-3-27b-endocrinology-scenario-mcq-it-merged-fp16,Thyroid disorders
+5b2e2b444aa5,HAJERI/gemma-3-27b-endocrinology-scenario-mcq-it-merged-fp16,Adrenal disorders
+c45f91cacda9,HAJERI/gemma-3-27b-endocrinology-scenario-mcq-it-merged-fp16,Pituitary & hypothalamic disorders
+0ebc9e8ffd6c,HAJERI/gemma-3-27b-endocrinology-scenario-mcq-it-merged-fp16,"Calcium, parathyroid & metabolic bone disease"
+1b641525d095,HAJERI/gemma-3-27b-endocrinology-scenario-mcq-it-merged-fp16,Female reproductive endocrinology
+2cb2b37e73b6,HAJERI/gemma-3-27b-endocrinology-scenario-mcq-it-merged-fp16,Male reproductive endocrinology
+b50d29f40732,HAJERI/gemma-3-27b-endocrinology-scenario-mcq-it-merged-fp16,"Obesity, lipids & nutrition"
+ef9af285e64a,HAJERI/gemma-3-27b-endocrinology-scenario-mcq-it-merged-fp16,Endocrine neoplasia & hereditary syndromes
+1b0768c9f36d,HAJERI/gemma-3-27b-endocrinology-scenario-mcq-it-merged-fp16,Pediatric endocrinology & growth/puberty
+c9cc48ece6c7,HAJERI/gemma-3-12b-endocrinology-scenario-mcq-it-fp16-gguf,Diabetes mellitus & hypoglycemia
+6521d0639ac9,HAJERI/gemma-3-12b-endocrinology-scenario-mcq-it-fp16-gguf,Thyroid disorders
+7a873ea00c39,HAJERI/gemma-3-12b-endocrinology-scenario-mcq-it-fp16-gguf,Adrenal disorders
+68766206672d,HAJERI/gemma-3-12b-endocrinology-scenario-mcq-it-fp16-gguf,Pituitary & hypothalamic disorders
+c4cebc4ed96c,HAJERI/gemma-3-12b-endocrinology-scenario-mcq-it-fp16-gguf,"Calcium, parathyroid & metabolic bone disease"
+552508ecb066,HAJERI/gemma-3-12b-endocrinology-scenario-mcq-it-fp16-gguf,Female reproductive endocrinology
+9cf1f1e87a3d,HAJERI/gemma-3-12b-endocrinology-scenario-mcq-it-fp16-gguf,Male reproductive endocrinology
+f5e0d75d33bf,HAJERI/gemma-3-12b-endocrinology-scenario-mcq-it-fp16-gguf,"Obesity, lipids & nutrition"
+705bd791f62f,HAJERI/gemma-3-12b-endocrinology-scenario-mcq-it-fp16-gguf,Endocrine neoplasia & hereditary syndromes
+3b0d2470f085,HAJERI/gemma-3-12b-endocrinology-scenario-mcq-it-fp16-gguf,Pediatric endocrinology & growth/puberty
+982f19db3167,HAJERI/gemma-3-27b-endocrinology-scenario-mcq-it-fp16-gguf,Diabetes mellitus & hypoglycemia
+486e28b6d0c2,HAJERI/gemma-3-27b-endocrinology-scenario-mcq-it-fp16-gguf,Thyroid disorders
+9c5ef1f13007,HAJERI/gemma-3-27b-endocrinology-scenario-mcq-it-fp16-gguf,Adrenal disorders
+3e41ffcf0088,HAJERI/gemma-3-27b-endocrinology-scenario-mcq-it-fp16-gguf,Pituitary & hypothalamic disorders
+10725e20bfb6,HAJERI/gemma-3-27b-endocrinology-scenario-mcq-it-fp16-gguf,"Calcium, parathyroid & metabolic bone disease"
+8e132568a6a8,HAJERI/gemma-3-27b-endocrinology-scenario-mcq-it-fp16-gguf,Female reproductive endocrinology
+bb7d69218e45,HAJERI/gemma-3-27b-endocrinology-scenario-mcq-it-fp16-gguf,Male reproductive endocrinology
+ee7e1f15667e,HAJERI/gemma-3-27b-endocrinology-scenario-mcq-it-fp16-gguf,"Obesity, lipids & nutrition"
+591057269fe7,HAJERI/gemma-3-27b-endocrinology-scenario-mcq-it-fp16-gguf,Endocrine neoplasia & hereditary syndromes
+4fbac270b352,HAJERI/gemma-3-27b-endocrinology-scenario-mcq-it-fp16-gguf,Pediatric endocrinology & growth/puberty
+451c32c2905e,HAJERI/gemma-3-12b-endocrinology-scenario-mcq-it-Q4_K_M-gguf,Diabetes mellitus & hypoglycemia
+90cb59f3d60c,HAJERI/gemma-3-12b-endocrinology-scenario-mcq-it-Q4_K_M-gguf,Thyroid disorders
+1973778fc666,HAJERI/gemma-3-12b-endocrinology-scenario-mcq-it-Q4_K_M-gguf,Adrenal disorders
+ead596c9d511,HAJERI/gemma-3-12b-endocrinology-scenario-mcq-it-Q4_K_M-gguf,Pituitary & hypothalamic disorders
+2fc3a2aa5984,HAJERI/gemma-3-12b-endocrinology-scenario-mcq-it-Q4_K_M-gguf,"Calcium, parathyroid & metabolic bone disease"
+44273d462027,HAJERI/gemma-3-12b-endocrinology-scenario-mcq-it-Q4_K_M-gguf,Female reproductive endocrinology
+340bc6706b25,HAJERI/gemma-3-12b-endocrinology-scenario-mcq-it-Q4_K_M-gguf,Male reproductive endocrinology
+9fe9b70c244c,HAJERI/gemma-3-12b-endocrinology-scenario-mcq-it-Q4_K_M-gguf,"Obesity, lipids & nutrition"
+648bd9b439cf,HAJERI/gemma-3-12b-endocrinology-scenario-mcq-it-Q4_K_M-gguf,Endocrine neoplasia & hereditary syndromes
+bb3891c587df,HAJERI/gemma-3-12b-endocrinology-scenario-mcq-it-Q4_K_M-gguf,Pediatric endocrinology & growth/puberty
+be1af5d03a0c,HAJERI/gemma-3-1b-endocrinology-scenario-mcq-it-Q4_K_M-gguf,Diabetes mellitus & hypoglycemia
+1dac3a67811a,HAJERI/gemma-3-1b-endocrinology-scenario-mcq-it-Q4_K_M-gguf,Adrenal disorders
+572a26aa66fc,HAJERI/gemma-3-1b-endocrinology-scenario-mcq-it-Q4_K_M-gguf,Pituitary & hypothalamic disorders
+fbe8c52177e8,HAJERI/gemma-3-1b-endocrinology-scenario-mcq-it-Q4_K_M-gguf,"Calcium, parathyroid & metabolic bone disease"
+606bd5fb72f3,HAJERI/gemma-3-1b-endocrinology-scenario-mcq-it-Q4_K_M-gguf,Female reproductive endocrinology
+82dedb5ffff9,HAJERI/gemma-3-1b-endocrinology-scenario-mcq-it-Q4_K_M-gguf,Male reproductive endocrinology
+2bdb543a8160,HAJERI/gemma-3-1b-endocrinology-scenario-mcq-it-Q4_K_M-gguf,Endocrine neoplasia & hereditary syndromes
+1171bf80dafa,HAJERI/gemma-3-1b-endocrinology-scenario-mcq-it-Q4_K_M-gguf,Pediatric endocrinology & growth/puberty
+e6d74d4e8460,HAJERI/gemma-3-1b-endocrinology-scenario-mcq-it-fp16-gguf,Thyroid disorders
+c20ac442f923,HAJERI/gemma-3-1b-endocrinology-scenario-mcq-it-fp16-gguf,Adrenal disorders
+08bc5731e5aa,HAJERI/gemma-3-1b-endocrinology-scenario-mcq-it-fp16-gguf,Pituitary & hypothalamic disorders
+94aac1b4d334,HAJERI/gemma-3-1b-endocrinology-scenario-mcq-it-fp16-gguf,"Calcium, parathyroid & metabolic bone disease"
+8ecd572be27d,HAJERI/gemma-3-1b-endocrinology-scenario-mcq-it-fp16-gguf,Female reproductive endocrinology
+45ef3c8ae0c6,HAJERI/gemma-3-1b-endocrinology-scenario-mcq-it-fp16-gguf,Male reproductive endocrinology
+11ad9db647e7,HAJERI/gemma-3-1b-endocrinology-scenario-mcq-it-fp16-gguf,"Obesity, lipids & nutrition"
+5bcd9808de89,HAJERI/gemma-3-1b-endocrinology-scenario-mcq-it-fp16-gguf,Endocrine neoplasia & hereditary syndromes
+f596dd058e72,HAJERI/gemma-3-1b-endocrinology-scenario-mcq-it-fp16-gguf,Pediatric endocrinology & growth/puberty
+ebd1afe8237c,HAJERI/gemma-3-4b-endocrinology-scenario-mcq-it-fp16-gguf,Diabetes mellitus & hypoglycemia
+b5439fc0bf11,HAJERI/gemma-3-4b-endocrinology-scenario-mcq-it-fp16-gguf,Thyroid disorders
+ba486c5d57b7,HAJERI/gemma-3-4b-endocrinology-scenario-mcq-it-fp16-gguf,Adrenal disorders
+12d35c8a25b9,HAJERI/gemma-3-4b-endocrinology-scenario-mcq-it-fp16-gguf,Pituitary & hypothalamic disorders
+63876bb18ac1,HAJERI/gemma-3-4b-endocrinology-scenario-mcq-it-fp16-gguf,"Calcium, parathyroid & metabolic bone disease"
+e2c1fd44d202,HAJERI/gemma-3-4b-endocrinology-scenario-mcq-it-fp16-gguf,Female reproductive endocrinology
+64255ae6915f,HAJERI/gemma-3-4b-endocrinology-scenario-mcq-it-fp16-gguf,Male reproductive endocrinology
+d1d1ec40f16c,HAJERI/gemma-3-4b-endocrinology-scenario-mcq-it-fp16-gguf,"Obesity, lipids & nutrition"
+967e3d6b67ed,HAJERI/gemma-3-4b-endocrinology-scenario-mcq-it-fp16-gguf,Endocrine neoplasia & hereditary syndromes
+ae093a51c4b6,HAJERI/gemma-3-4b-endocrinology-scenario-mcq-it-fp16-gguf,Pediatric endocrinology & growth/puberty
+41dc4f03edfa,HAJERI/gemma-3-4b-endocrinology-scenario-mcq-it-Q4_K_M-gguf,Diabetes mellitus & hypoglycemia
+ce1da2895da6,HAJERI/gemma-3-4b-endocrinology-scenario-mcq-it-Q4_K_M-gguf,Thyroid disorders
+17d91e899560,HAJERI/gemma-3-4b-endocrinology-scenario-mcq-it-Q4_K_M-gguf,Adrenal disorders
+ec6ebbe47172,HAJERI/gemma-3-4b-endocrinology-scenario-mcq-it-Q4_K_M-gguf,Pituitary & hypothalamic disorders
+ca92142372bd,HAJERI/gemma-3-4b-endocrinology-scenario-mcq-it-Q4_K_M-gguf,"Calcium, parathyroid & metabolic bone disease"
+3a15c495a5eb,HAJERI/gemma-3-4b-endocrinology-scenario-mcq-it-Q4_K_M-gguf,Female reproductive endocrinology
+9ff278204bab,HAJERI/gemma-3-4b-endocrinology-scenario-mcq-it-Q4_K_M-gguf,Male reproductive endocrinology
+6b6cc0522380,HAJERI/gemma-3-4b-endocrinology-scenario-mcq-it-Q4_K_M-gguf,"Obesity, lipids & nutrition"
+d8e525b68478,HAJERI/gemma-3-4b-endocrinology-scenario-mcq-it-Q4_K_M-gguf,Endocrine neoplasia & hereditary syndromes
+f7f513e39359,HAJERI/gemma-3-4b-endocrinology-scenario-mcq-it-Q4_K_M-gguf,Pediatric endocrinology & growth/puberty
+b1667abfd4f6,HAJERI/gemma-3-27b-endocrinology-scenario-mcq-it-Q4_K_M-gguf,Diabetes mellitus & hypoglycemia
+1c8f2be75c2e,HAJERI/gemma-3-27b-endocrinology-scenario-mcq-it-Q4_K_M-gguf,Thyroid disorders
+3d9cebf75bbc,HAJERI/gemma-3-27b-endocrinology-scenario-mcq-it-Q4_K_M-gguf,Adrenal disorders
+49898f353d96,HAJERI/gemma-3-27b-endocrinology-scenario-mcq-it-Q4_K_M-gguf,Pituitary & hypothalamic disorders
+a0369c1c4b9e,HAJERI/gemma-3-27b-endocrinology-scenario-mcq-it-Q4_K_M-gguf,"Calcium, parathyroid & metabolic bone disease"
+febe0b37186f,HAJERI/gemma-3-27b-endocrinology-scenario-mcq-it-Q4_K_M-gguf,Female reproductive endocrinology
+cff92c72a772,HAJERI/gemma-3-27b-endocrinology-scenario-mcq-it-Q4_K_M-gguf,Male reproductive endocrinology
+7e75b3ac7c6d,HAJERI/gemma-3-27b-endocrinology-scenario-mcq-it-Q4_K_M-gguf,"Obesity, lipids & nutrition"
+aeeac4a309e1,HAJERI/gemma-3-27b-endocrinology-scenario-mcq-it-Q4_K_M-gguf,Endocrine neoplasia & hereditary syndromes
+db20e183b8b9,HAJERI/gemma-3-27b-endocrinology-scenario-mcq-it-Q4_K_M-gguf,Pediatric endocrinology & growth/puberty
+fdcd1de181e4,HAJERI/gpt-oss-20b-endocrinology-scenario-mcq-it-lora,Diabetes mellitus & hypoglycemia
+ae26c682dca8,HAJERI/gpt-oss-20b-endocrinology-scenario-mcq-it-lora,Thyroid disorders
+13afe692db79,HAJERI/gpt-oss-20b-endocrinology-scenario-mcq-it-lora,Adrenal disorders
+a54a8255a51f,HAJERI/gpt-oss-20b-endocrinology-scenario-mcq-it-lora,Pituitary & hypothalamic disorders
+8f7fa1343f0c,HAJERI/gpt-oss-20b-endocrinology-scenario-mcq-it-lora,"Calcium, parathyroid & metabolic bone disease"
+9817099d2bc0,HAJERI/gpt-oss-20b-endocrinology-scenario-mcq-it-lora,Female reproductive endocrinology
+9196b1cf7fd6,HAJERI/gpt-oss-20b-endocrinology-scenario-mcq-it-lora,Male reproductive endocrinology
+5315767b88f8,HAJERI/gpt-oss-20b-endocrinology-scenario-mcq-it-lora,"Obesity, lipids & nutrition"
+1e20a8db1b90,HAJERI/gpt-oss-20b-endocrinology-scenario-mcq-it-lora,Endocrine neoplasia & hereditary syndromes
+05c928e2cfa6,HAJERI/gpt-oss-20b-endocrinology-scenario-mcq-it-lora,Pediatric endocrinology & growth/puberty
+9eced9be057d,HAJERI/gpt-oss-20b-endocrinology-scenario-mcq-it-merged-fp16,Diabetes mellitus & hypoglycemia
+82b65e5f9831,HAJERI/gpt-oss-20b-endocrinology-scenario-mcq-it-merged-fp16,Thyroid disorders
+ae63d0fe6bc9,HAJERI/gpt-oss-20b-endocrinology-scenario-mcq-it-merged-fp16,Adrenal disorders
+01284186c165,HAJERI/gpt-oss-20b-endocrinology-scenario-mcq-it-merged-fp16,Pituitary & hypothalamic disorders
+3230eb78a751,HAJERI/gpt-oss-20b-endocrinology-scenario-mcq-it-merged-fp16,"Calcium, parathyroid & metabolic bone disease"
+f06a1cb06177,HAJERI/gpt-oss-20b-endocrinology-scenario-mcq-it-merged-fp16,Female reproductive endocrinology
+60928399cd56,HAJERI/gpt-oss-20b-endocrinology-scenario-mcq-it-merged-fp16,Male reproductive endocrinology
+9ab04d10da59,HAJERI/gpt-oss-20b-endocrinology-scenario-mcq-it-merged-fp16,"Obesity, lipids & nutrition"
+6cdbeafd8169,HAJERI/gpt-oss-20b-endocrinology-scenario-mcq-it-merged-fp16,Endocrine neoplasia & hereditary syndromes
+e9a8c13b6f8d,HAJERI/gpt-oss-20b-endocrinology-scenario-mcq-it-merged-fp16,Pediatric endocrinology & growth/puberty
+e8f1ca5e4d8c,HAJERI/gpt-oss-20b-endocrinology-scenario-mcq-it-Q4_K_M-gguf,Diabetes mellitus & hypoglycemia
+0e9759952524,HAJERI/gpt-oss-20b-endocrinology-scenario-mcq-it-Q4_K_M-gguf,Thyroid disorders
+1c3270e8ce4a,HAJERI/gpt-oss-20b-endocrinology-scenario-mcq-it-Q4_K_M-gguf,Adrenal disorders
+5f78573473cf,HAJERI/gpt-oss-20b-endocrinology-scenario-mcq-it-Q4_K_M-gguf,Pituitary & hypothalamic disorders
+14ba771093c3,HAJERI/gpt-oss-20b-endocrinology-scenario-mcq-it-Q4_K_M-gguf,Female reproductive endocrinology
+fbd2d1821c6b,HAJERI/gpt-oss-20b-endocrinology-scenario-mcq-it-Q4_K_M-gguf,Male reproductive endocrinology
+3d919b937857,HAJERI/gpt-oss-20b-endocrinology-scenario-mcq-it-Q4_K_M-gguf,"Obesity, lipids & nutrition"
+2b9d242057ae,HAJERI/gpt-oss-20b-endocrinology-scenario-mcq-it-Q4_K_M-gguf,Endocrine neoplasia & hereditary syndromes
+1a1d8ffe7492,HAJERI/gpt-oss-20b-endocrinology-scenario-mcq-it-Q4_K_M-gguf,Pediatric endocrinology & growth/puberty
+83eeaaed6957,HAJERI/gpt-oss-20b-endocrinology-scenario-mcq-it-fp16-gguf,Diabetes mellitus & hypoglycemia
+f959463ea2cf,HAJERI/gpt-oss-20b-endocrinology-scenario-mcq-it-fp16-gguf,Thyroid disorders
+397a8b658b20,HAJERI/gpt-oss-20b-endocrinology-scenario-mcq-it-fp16-gguf,Adrenal disorders
+5a14781aedbf,HAJERI/gpt-oss-20b-endocrinology-scenario-mcq-it-fp16-gguf,Pituitary & hypothalamic disorders
+57ae0d9c37f4,HAJERI/gpt-oss-20b-endocrinology-scenario-mcq-it-fp16-gguf,"Calcium, parathyroid & metabolic bone disease"
+00b9bafb8102,HAJERI/gpt-oss-20b-endocrinology-scenario-mcq-it-fp16-gguf,Female reproductive endocrinology
+bb3c97aa7c9c,HAJERI/gpt-oss-20b-endocrinology-scenario-mcq-it-fp16-gguf,Male reproductive endocrinology
+b4e0dc82c684,HAJERI/gpt-oss-20b-endocrinology-scenario-mcq-it-fp16-gguf,"Obesity, lipids & nutrition"
+0cc8edc460dd,HAJERI/gpt-oss-20b-endocrinology-scenario-mcq-it-fp16-gguf,Endocrine neoplasia & hereditary syndromes
+e6a553d4ab28,HAJERI/gpt-oss-20b-endocrinology-scenario-mcq-it-fp16-gguf,Pediatric endocrinology & growth/puberty

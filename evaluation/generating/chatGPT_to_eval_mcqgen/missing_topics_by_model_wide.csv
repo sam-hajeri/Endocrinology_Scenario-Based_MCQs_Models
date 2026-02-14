@@ -1,0 +1,21 @@
+model_id,n_items,topic_n,missing_topic_n,missing_topics,missing_model_id_rows
+HAJERI/gemma-3-12b-endocrinology-scenario-mcq-it-Q4_K_M-gguf,10,10,0,,0
+HAJERI/gemma-3-12b-endocrinology-scenario-mcq-it-fp16-gguf,10,10,0,,0
+HAJERI/gemma-3-12b-endocrinology-scenario-mcq-it-lora,10,10,0,,0
+HAJERI/gemma-3-12b-endocrinology-scenario-mcq-it-merged-fp16,10,10,0,,0
+HAJERI/gemma-3-1b-endocrinology-scenario-mcq-it-lora,10,10,0,,0
+HAJERI/gemma-3-1b-endocrinology-scenario-mcq-it-merged-fp16,10,10,0,,0
+HAJERI/gemma-3-27b-endocrinology-scenario-mcq-it-Q4_K_M-gguf,10,10,0,,0
+HAJERI/gemma-3-27b-endocrinology-scenario-mcq-it-fp16-gguf,10,10,0,,0
+HAJERI/gemma-3-27b-endocrinology-scenario-mcq-it-lora,10,10,0,,0
+HAJERI/gemma-3-27b-endocrinology-scenario-mcq-it-merged-fp16,10,10,0,,0
+HAJERI/gemma-3-4b-endocrinology-scenario-mcq-it-Q4_K_M-gguf,10,10,0,,0
+HAJERI/gemma-3-4b-endocrinology-scenario-mcq-it-fp16-gguf,10,10,0,,0
+HAJERI/gemma-3-4b-endocrinology-scenario-mcq-it-lora,10,10,0,,0
+HAJERI/gemma-3-4b-endocrinology-scenario-mcq-it-merged-fp16,10,10,0,,0
+HAJERI/gpt-oss-20b-endocrinology-scenario-mcq-it-fp16-gguf,10,10,0,,0
+HAJERI/gpt-oss-20b-endocrinology-scenario-mcq-it-lora,10,10,0,,0
+HAJERI/gpt-oss-20b-endocrinology-scenario-mcq-it-merged-fp16,10,10,0,,0
+HAJERI/gemma-3-1b-endocrinology-scenario-mcq-it-fp16-gguf,9,9,1,Diabetes mellitus & hypoglycemia,0
+HAJERI/gpt-oss-20b-endocrinology-scenario-mcq-it-Q4_K_M-gguf,9,9,1,"Calcium, parathyroid & metabolic bone disease",0
+HAJERI/gemma-3-1b-endocrinology-scenario-mcq-it-Q4_K_M-gguf,8,8,2,"Obesity, lipids & nutrition; Thyroid disorders",0

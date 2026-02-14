@@ -1,0 +1,25 @@
+Model,Family,Size,Variant,Format,Precision / Quant,Accuracy (%)
+HAJERI/gemma-3-12b-endocrinology-scenario-mcq-it-fp16-gguf,Gemma-3,12B,GGUF weights,GGUF,FP16,87.5
+HAJERI/gemma-3-12b-endocrinology-scenario-mcq-it-lora,Gemma-3,12B,LoRA adapter,HF,LoRA,84
+HAJERI/gemma-3-12b-endocrinology-scenario-mcq-it-merged-fp16,Gemma-3,12B,Merged weights,HF,FP16,84.5
+HAJERI/gemma-3-12b-endocrinology-scenario-mcq-it-Q4_K_M-gguf,Gemma-3,12B,Quantized GGUF,GGUF,Q4_K_M,86
+HAJERI/gemma-3-1b-endocrinology-scenario-mcq-it-fp16-gguf,Gemma-3,1B,GGUF weights,GGUF,FP16,2
+HAJERI/gemma-3-1b-endocrinology-scenario-mcq-it-lora,Gemma-3,1B,LoRA adapter,HF,LoRA,6
+HAJERI/gemma-3-1b-endocrinology-scenario-mcq-it-merged-fp16,Gemma-3,1B,Merged weights,HF,FP16,11.5
+HAJERI/gemma-3-1b-endocrinology-scenario-mcq-it-Q4_K_M-gguf,Gemma-3,1B,Quantized GGUF,GGUF,Q4_K_M,3
+HAJERI/gemma-3-270m-endocrinology-scenario-mcq-it-fp16-gguf,Gemma-3,270M,GGUF weights,GGUF,FP16,5.5
+HAJERI/gemma-3-270m-endocrinology-scenario-mcq-it-lora,Gemma-3,270M,LoRA adapter,HF,LoRA,5
+HAJERI/gemma-3-270m-endocrinology-scenario-mcq-it-merged-fp16,Gemma-3,270M,Merged weights,HF,FP16,10.5
+HAJERI/gemma-3-270m-endocrinology-scenario-mcq-it-Q4_K_M-gguf,Gemma-3,270M,Quantized GGUF,GGUF,Q4_K_M,5.5
+HAJERI/gemma-3-27b-endocrinology-scenario-mcq-it-fp16-gguf,Gemma-3,27B,GGUF weights,GGUF,FP16,89.5
+HAJERI/gemma-3-27b-endocrinology-scenario-mcq-it-lora,Gemma-3,27B,LoRA adapter,HF,LoRA,87.5
+HAJERI/gemma-3-27b-endocrinology-scenario-mcq-it-merged-fp16,Gemma-3,27B,Merged weights,HF,FP16,88.5
+HAJERI/gemma-3-27b-endocrinology-scenario-mcq-it-Q4_K_M-gguf,Gemma-3,27B,Quantized GGUF,GGUF,Q4_K_M,89.5
+HAJERI/gemma-3-4b-endocrinology-scenario-mcq-it-fp16-gguf,Gemma-3,4B,GGUF weights,GGUF,FP16,3
+HAJERI/gemma-3-4b-endocrinology-scenario-mcq-it-lora,Gemma-3,4B,LoRA adapter,HF,LoRA,68.5
+HAJERI/gemma-3-4b-endocrinology-scenario-mcq-it-merged-fp16,Gemma-3,4B,Merged weights,HF,FP16,39
+HAJERI/gemma-3-4b-endocrinology-scenario-mcq-it-Q4_K_M-gguf,Gemma-3,4B,Quantized GGUF,GGUF,Q4_K_M,25.5
+HAJERI/gpt-oss-20b-endocrinology-scenario-mcq-it-fp16-gguf,GPT-OSS,20B,GGUF weights,GGUF,FP16,91
+HAJERI/gpt-oss-20b-endocrinology-scenario-mcq-it-lora,GPT-OSS,20B,LoRA adapter,HF,LoRA,93
+HAJERI/gpt-oss-20b-endocrinology-scenario-mcq-it-merged-fp16,GPT-OSS,20B,Merged weights,HF,FP16,29.5
+HAJERI/gpt-oss-20b-endocrinology-scenario-mcq-it-Q4_K_M-gguf,GPT-OSS,20B,Quantized GGUF,GGUF,Q4_K_M,89.5

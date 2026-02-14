@@ -1,0 +1,17 @@
+[
+    { "model_id": "HAJERI/gemma-3-270m-endocrinology-scenario-mcq-it-Q4_K_M-gguf" },
+    { "model_id": "HAJERI/gemma-3-270m-endocrinology-scenario-mcq-it-fp16-gguf" },
+  
+    { "model_id": "HAJERI/gemma-3-1b-endocrinology-scenario-mcq-it-Q4_K_M-gguf" },
+    { "model_id": "HAJERI/gemma-3-1b-endocrinology-scenario-mcq-it-fp16-gguf" },
+  
+    { "model_id": "HAJERI/gemma-3-4b-endocrinology-scenario-mcq-it-Q4_K_M-gguf" },
+    { "model_id": "HAJERI/gemma-3-4b-endocrinology-scenario-mcq-it-fp16-gguf" },
+  
+    { "model_id": "HAJERI/gemma-3-12b-endocrinology-scenario-mcq-it-Q4_K_M-gguf" },
+    { "model_id": "HAJERI/gemma-3-12b-endocrinology-scenario-mcq-it-fp16-gguf" },
+  
+    { "model_id": "HAJERI/gemma-3-27b-endocrinology-scenario-mcq-it-Q4_K_M-gguf" },
+    { "model_id": "HAJERI/gemma-3-27b-endocrinology-scenario-mcq-it-fp16-gguf" }
+  ]
+  

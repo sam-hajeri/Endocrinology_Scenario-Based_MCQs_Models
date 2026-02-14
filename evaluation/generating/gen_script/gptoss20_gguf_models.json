@@ -1,0 +1,10 @@
+[
+    {
+      "model_id": "HAJERI/gpt-oss-20b-endocrinology-scenario-mcq-it-Q4_K_M-gguf",
+      "kind": "gguf"
+    },
+    {
+      "model_id": "HAJERI/gpt-oss-20b-endocrinology-scenario-mcq-it-fp16-gguf",
+      "kind": "gguf"
+    }
+  ]
