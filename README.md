@@ -1,6 +1,6 @@
 # Generative AI Medical Pipeline (Endocrinology)
 
-This project created **LLM models that generate and answer Endocrinology Scenario-Based Multiple Choice Questions (MCQs)**.
+This project created **LLM models that generate and answer Endocrinology Scenario-Based Multiple Choice Questions (MCQs)**. These models are saved in the follwoing huggingface repo: **https://huggingface.co/HAJERI**
 
 **Educational use only:** This repository and its outputs are intended **for education purposes only** and are **not** intended for clinical decision-making, diagnosis, treatment, or patient-specific medical advice.
 
@@ -122,3 +122,4 @@ Compute resources (**NVIDIA A100 80GB**) were supplied by the **National eLearni
 ## Notes
 - The repository is organized to support **repeatable experiments** across model sizes, formats (HF vs GGUF), and evaluation modes (answering vs generation).
 - Evaluation is designed to produce **traceable outputs** (accuracy tables, judged JSONL runs, strict-pass subsets, and topic gap reports).
+
